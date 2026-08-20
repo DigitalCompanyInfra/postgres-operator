@@ -13,6 +13,7 @@
 # any hashing function that is not recognized.
 # --https://bugzilla.redhat.com/show_bug.cgi?id=2064343#c4
 
+import internal.session
 from itsdangerous import signer
 import hashlib
 
