@@ -2,3 +2,5 @@
 /vendor/
 /testing/kuttl/e2e-generated*/
 gke_gcloud_auth_plugin_cache
+config.bat
+node_modules
